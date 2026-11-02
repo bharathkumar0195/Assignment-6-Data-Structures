@@ -1,0 +1,10 @@
+distribution,n,median_of_medians_ms,randomized_quickselect_ms
+random,100,0.0296,0.0275
+sorted,100,0.0270,0.0272
+reverse,100,0.0254,0.0237
+random,1000,0.3764,0.2133
+sorted,1000,0.2917,0.2052
+reverse,1000,0.2980,0.1859
+random,5000,1.9635,0.9324
+sorted,5000,1.7253,0.8829
+reverse,5000,1.7300,0.7225
